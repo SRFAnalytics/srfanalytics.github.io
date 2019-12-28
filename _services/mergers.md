@@ -3,9 +3,7 @@ title: "Data Sources"
 image: "/services/default.png"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Search financial, economic and supply chain data from reputable sources (Federal Reserve, FINCEN, Brunel University London, World Bank, etc.).
 
 ## Ne verba patulosque numen vix libet
 
