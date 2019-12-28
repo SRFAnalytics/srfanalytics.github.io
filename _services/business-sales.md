@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Data Visualizations'
 image: '/services/default.png'
 ---
 
