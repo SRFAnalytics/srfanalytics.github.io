@@ -1,5 +1,5 @@
 ---
-title: "Superannuation"
+title: "Financial News"
 image: "/services/default.png"
 ---
 
