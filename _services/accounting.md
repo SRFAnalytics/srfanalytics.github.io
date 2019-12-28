@@ -1,5 +1,5 @@
 ---
-title: 'Busienss Analytics'
+title: 'Business Analytics'
 image: '/services/noun_591323.png'
 ---
 
