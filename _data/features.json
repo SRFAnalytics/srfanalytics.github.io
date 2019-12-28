@@ -2,7 +2,7 @@
   {
     "title": "Free Consultation",
     "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/data-science-for-business.png"
+    "image": "images/features/applied-data-science-with-python.png"
   },
   {
     "title": "Certified Analysts",
@@ -12,6 +12,6 @@
   {
     "title": "Tech Compliance",
     "description": "We stay up to date on the latest changes to tech business tools.",
-    "image": "images/features/applied-data-science-with-python.png"
+    "image": "images/features/data-science-for-business.png"
   }
 ]
