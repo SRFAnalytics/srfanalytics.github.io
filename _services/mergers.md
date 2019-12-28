@@ -4,7 +4,7 @@ image: "/services/default.png"
 ---
 
 Search latest financial, economic and supply chain data from reputable sources 
-(Federal Reserve, FINCEN, Brunel University London, World Bank, etc.).
+such as the Federal Reserve, FINCEN, Brunel University London, World Bank.
 
 ## Ne verba patulosque numen vix libet
 
