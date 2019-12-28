@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Data Visualizations'
 image: '/services/noun_591323.png'
 ---
 
