@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Tech Advisory'
 image: '/services/default.png'
 ---
 
