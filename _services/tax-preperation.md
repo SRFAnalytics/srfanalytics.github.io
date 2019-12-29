@@ -1,5 +1,5 @@
 ---
-title: 'Tech News'
+title: 'Tech'
 image: '/services/noun_1013177.png'
 ---
 
