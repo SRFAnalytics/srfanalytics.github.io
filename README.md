@@ -1,4 +1,4 @@
-# SRF Analytics by Xi.Data
+# Pipeline Analytics by SrfData
 
 Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
