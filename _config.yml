@@ -1,6 +1,6 @@
 baseurl: ''
 exclude: ['README.md']
-permalink: pretty
+permalink: /services/:path/
 title: 'SRF Analytics'
 
 collections:
@@ -8,10 +8,10 @@ collections:
     output: true
     permalink: /services/:path/
   team:
-    output: true
+    output: false
     permalink: /team/:path/
   testimonials:
-    output: true
+    output: false
     permalink: /testimonials/:path/
 
 defaults:
